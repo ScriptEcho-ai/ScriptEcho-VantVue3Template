@@ -1,4 +1,4 @@
-ScriptEcho AntDesignVue3的模板项目
+ScriptEcho VantVue3的模板项目
 ===============
 
 ## 安装与使用
@@ -6,7 +6,7 @@ ScriptEcho AntDesignVue3的模板项目
 - 获取项目代码
 
 ```bash
-git clone https://github.com/ScriptEcho-ai/ScriptEch-AntDesignVue3Template.git
+git clone https://github.com/ScriptEcho-ai/ScriptEch-VantVue3Template.git
 ```
 
 - 安装依赖
@@ -36,4 +36,4 @@ yarn build
 
 2. 修改router/index.js文件，添加路由
 
-3. 访问 http://localhost:5176/scriptecho/HelloWorld
+3. 访问 http://localhost:5173/scriptecho/HelloWorld
