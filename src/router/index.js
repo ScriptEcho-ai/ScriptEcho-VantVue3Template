@@ -2,6 +2,7 @@ import {
     createRouter,
     createWebHistory
 } from "vue-router";
+import { scriptechoRoutes } from './scriptecho'
 
 const routes = [
   {
@@ -10,6 +11,7 @@ const routes = [
     component: () =>
         import ("/@/views/scriptecho/HelloWorld.vue"),
   },
+  ...scriptechoRoutes
 ];
 
 export default createRouter({

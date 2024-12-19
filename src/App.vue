@@ -11,6 +11,11 @@ export default {
   data(){
     return {
     }
+  },
+  mounted(){
+    setTimeout(() => {
+      window.parent?.postMessage({ action: 'on-code-ok' }, '*');
+    }, 5000);
   }
 }
 </script>
