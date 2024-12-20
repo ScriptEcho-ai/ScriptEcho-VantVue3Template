@@ -1,5 +1,5 @@
 {
-  "host": "https://ai.test.haumo.cn:8443", // 访问地址
+  "host": "https://admin.scriptecho.cn", // 访问地址
   "framework": "vue3",
   "routeFile": "src/router/scriptecho.js", // 路由文件
   "codeDir": "src/views", // 代码目录
