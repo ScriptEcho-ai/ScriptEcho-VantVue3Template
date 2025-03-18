@@ -120,6 +120,8 @@
     "moveable": "0.53.0",
     "@daybrush/utils": "1.13.0",
     "vue3-danmaku": "1.6.0",
+    "echarts-for-vue":"1.4.1",
+    "echarts":"5.5.1",
     "vue-echarts": "7.0.3",
     "chart.js": "4.4.2",
     "vue-chartjs": "5.3.1"
